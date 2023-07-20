@@ -20,6 +20,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+			<!-- Nao precisa informar a versao da dependencia, porque utiliza a versao do spring boot do parent que no caso eh 3.1.1-->
 		</dependency>
 
 		<dependency>
